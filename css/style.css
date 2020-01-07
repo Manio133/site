@@ -1,9 +1,12 @@
 h1
 {
 	color: yellow;
-	font-size: 26px;
 }
-p {
+p 
+{
 	font-family: Aldhabi;
 	font-size: 26px;
+}
+body{
+	background: green;
 }
